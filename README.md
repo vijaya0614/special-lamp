@@ -18,4 +18,9 @@ Before running the application, you need to have the following installed:
 YOU CAN INSTALLL THE DEPENDECIES  USING THE "PIP".
 >>FOR EXAMPLE
 >>
-
+pip install tkinter
+pip install diffusers
+pip install customtkinter
+To run this file, you need a HuggingFace API token.
+Once you have installed the dependencies, you can run the code by running the following command:
+"python logogenerator.py"
